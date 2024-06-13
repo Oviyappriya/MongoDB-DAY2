@@ -1,0 +1,26 @@
+[
+    {
+      "attendence":"absent",
+      "name": "Day 1: HTML",
+      "dueDate": "2023-10-18",
+      "date": "2023-10-30"
+    },
+    {
+      "attendence":"present",
+      "name": "Day 2: JS",
+      "dueDate": "2023-10-20",
+      "date": "2023-10-30"  
+    },
+    {
+       "attendence":"absent",
+        "name": "Day 3: CSS",
+        "dueDate": "2023-10-17",
+        "date": "2023-09-29"
+    },
+    {
+        "attendence":"present",
+        "name": "Day4 : MONGODB",
+        "dueDate": "2023-09-12",
+        "date": "2023-09-05"
+    }
+  ]

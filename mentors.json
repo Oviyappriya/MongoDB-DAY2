@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Sanjay",
+      "email": "sanjay@example.com",
+      "courses": ["MERN", "MEAN"],
+       "mentee-count":15
+    },
+    {
+        "name": "Siva",
+        "email": "siva@example.com",
+        "courses": ["Python"],
+        "mentee-count":18
+    },
+    {
+        "name": "Kavitha",
+        "email": "kavitha@example.com",
+        "courses": ["Java"],
+        "mentee-count":18
+    },
+    {
+        "name": "Durai",
+        "email": "durai@example.com",
+        "courses": ["C++"],
+        "mentee-count":20
+    }
+]  

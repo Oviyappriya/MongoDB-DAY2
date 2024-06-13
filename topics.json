@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Day 1: HTML",
+      "date": "2023-09-02",
+      "mentor": "sanjay@example.com"
+    },
+    {
+      "title": "Day 2: JS",
+      "date": "2023-10-02",
+      "mentor": "sanjay@example.com"
+    },
+    {
+        "title": "Day 3: CSS",
+        "date": "2023-11-02",
+        "mentor": "sanjay@example.com"
+    },
+    {
+        "title": "Day 4: MONGODB",
+        "date": "2023-12-02",
+        "mentor": "sanjay@example.com"
+    },
+    {
+        "title": "Day 5: React",
+        "date": "2024-01-02",
+        "mentor": "sanjay@example.com"
+    }
+  ]

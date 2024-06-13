@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Oviya",
+      "email": "oviya@example.com",
+      "course": "MERN Stack",
+      "batch": "FSD56WE-T",
+      "mentor": {
+        "name": "Sanjay",
+        "email": "sanjay@example.com"
+      }
+    },
+    {
+        "name": "Rohith",
+        "email": "rohith@example.com",
+        "course": "MERN Stack",
+        "batch": "FSD56WE-T",
+        "mentor": {
+          "name": "Sanjay",
+          "email": "sanjay@example.com"
+        }
+      },
+      {
+        "name": "John",
+        "email": "john@example.com",
+        "course": "MERN Stack",
+        "batch": "FSD56WE-T",
+        "mentor": {
+          "name": "Sanjay",
+          "email": "sanjay@example.com"
+        }
+      },
+      {
+        
+            "name": "RohithKumar",
+            "email": "rohithkumar@example.com",
+            "course": "MERN Stack",
+            "batch": "FSD56WE-T",
+            "mentor": {
+              "name": "Sanjay",
+              "email": "sanjay@example.com"
+            }
+        
+    }
+  ]

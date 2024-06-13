@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Odd/Even",
+      "description": "Given a number, find whether it is Odd or Even",
+      "points": 10,
+      "status":"solved"
+    },
+    {
+      "name" : "Palindrome",
+      "description" : "Given a string, find whether it is a Palindrome or not",
+      "points" : 10,
+      "status":"solved"
+    },
+    {
+        "name" : "Factorial",
+        "description" : "Given a number, find its factorial",
+        "points" : 0,
+        "status":"not solved"
+    },
+    {
+        "name" : "Prime",
+        "description" : "Given a number, find whether it is Prime or not",
+        "points" : 10,
+        "status":"solved"
+    },
+    {
+        "name" : "Fibonacci",
+        "description" : "Given a number, find its Fibonacci number",
+        "points" : 10,
+        "status":"solved"
+    },
+    {
+        "name" : "Reverse",
+        "description" : "Given a string, reverse it",
+        "points" : 10,
+        "status":"solved"
+    }
+  ]

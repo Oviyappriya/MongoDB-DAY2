@@ -1,0 +1,22 @@
+[
+    {
+      "date": "2023-09-09",
+      "userEmai": "oviya@example.com",
+      "isPresent": false
+    },
+    {
+        "date": "2023-09-10",
+        "userEmai": "rohith@example.com",
+        "isPresent": true
+    },
+    {
+        "date": "2023-09-11",
+        "userEmai": "john@example.com",
+        "isPresent": true
+    },
+    {
+        "date": "2023-09-12",
+        "userEmai": "rohithkumar@example.com",
+        "isPresent": true
+    }
+  ]
